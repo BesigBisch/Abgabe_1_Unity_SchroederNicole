@@ -21,7 +21,7 @@ public class LetterScript : MonoBehaviour
     
     }
 
-    public void PressLetter()
+    public void PressLetter() 
     {
         if (isCorrect)
         {
